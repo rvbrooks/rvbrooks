@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Vincent Brooks, PhD</h1>
 <h3 align="center">I'm an enthusiastic Data Scientist</h3>
 
-- 🌱 I’m currently learning **Neural Networks & Deep Learning**
+- 🌱 I’m currently learning more about **Neural Networks & Deep Learning**
 
-- 👨‍💻 All of my projects are available at [github.com/rvbrooks](github.com/rvbrooks)
+- 👨‍💻 All of my projects are available here at [github.com/rvbrooks](github.com/rvbrooks)
 
-- 💬 Ask me about **Python best practice!**
+- 💬 Ask me about **my latest work on reinforcement learning!**
 
 - 📫 Contact me at **r.v.brooks3@gmail.com**
 
