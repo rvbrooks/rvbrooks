@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vincent Brooks, PhD</h1>
-<h3 align="center">An enthusiastic Data Scientist</h3>
+<h1 align="center">Hi, I'm Vincent Brooks, PhD</h1>
+<h3 align="center">I'm an enthusiastic Data Scientist</h3>
 
 - 🌱 I’m currently learning **Neural Networks & Deep Learning**
 
