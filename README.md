@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vincent Brooks, PhD</h1>
-<h3 align="center">I'm an enthusiastic Data Scientist</h3>
+<h3 align="center">I'm a Data Scientist looking for their next exciting project!</h3>
 
 - 🌱 I’m currently learning more about **Neural Networks & Deep Learning**
 
@@ -9,7 +9,7 @@
 
 - 📫 Contact me at **r.v.brooks3@gmail.com**
 
-- ⚡ Fun fact **I graduated from my PhD this year!**
+- ⚡ Fun fact **I graduated from my PhD in experimental quantum physics this year!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
