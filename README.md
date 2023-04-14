@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available here at [github.com/rvbrooks](github.com/rvbrooks)
 
-- 💬 Ask me about **my latest work on reinforcement learning!**
+- 💬 Ask me about **my latest work on reinforcement learning for mRNA design!**
 
 - 📫 Contact me at **r.v.brooks3@gmail.com**
 
