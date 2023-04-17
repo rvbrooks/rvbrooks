@@ -1,4 +1,4 @@
-![alt text](https://github.com/rvbrooks/physics_modelling/blob/main/monte_carlo_result.png)
+![alt text](https://github.com/rvbrooks/rvbrooks/blob/main/github_header.png)
 
 
 <h1 align="center">Vincent Brooks, PhD</h1>
