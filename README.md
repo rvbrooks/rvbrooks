@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **my latest work on reinforcement learning for mRNA design!**
 
-- 📫 Contact me at **r.v.brooks3@gmail.com**
-
 - ⚡ Fun fact **I graduated from my PhD in experimental quantum physics this year!**
 
 <h3 align="left">Connect with me:</h3>
