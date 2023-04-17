@@ -1,3 +1,6 @@
+![alt text](https://github.com/rvbrooks/physics_modelling/blob/main/monte_carlo_result.png)
+
+
 <h1 align="center">Vincent Brooks, PhD</h1>
 <h3 align="center">I'm a Data Scientist looking for my next exciting project!</h3>
 
