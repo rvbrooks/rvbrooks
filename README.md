@@ -4,7 +4,7 @@
 <h1 align="center">Vincent Brooks, PhD</h1>
 <h3 align="center">I'm a Data Scientist looking for my next exciting project!</h3>
 
-- 🌱 I’m currently learning more about **neural networks & deep learning for Chess ♔♝♕♞♖**
+- 💡 I'm currently working on reinforcement learning using **neural networks & deep learning to build a chess AI ♔♝♕♞♖**
 
 - 👨‍💻 All of my projects are available here at [github.com/rvbrooks](github.com/rvbrooks)
 
