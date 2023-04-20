@@ -6,7 +6,7 @@
 
 - 💡 I'm currently working on reinforcement learning using **neural networks & deep learning to build a chess AI ♔♝♕♞♖**
 
-- 👨‍💻 All of my projects are available here at [github.com/rvbrooks](github.com/rvbrooks)
+- 👨‍💻 All of my projects are available here at [github.com/rvbrooks](https://github.com/rvbrooks)
 
 - 💬 Ask me about **my latest work on reinforcement learning for mRNA design!**
 
