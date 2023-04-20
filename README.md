@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **my latest work on reinforcement learning for mRNA design!**
 
-- ⚡ Fun fact **I graduated from my PhD in experimental quantum physics this year!**
+- ⚡ Fun fact **I graduated from my PhD in experimental quantum physics this year!**. Read my PhD thesis [here](http://etheses.dur.ac.uk/14468/1/RVB_Thesis.pdf?DDD25+)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
