@@ -1,4 +1,4 @@
-![alt text](https://github.com/rvbrooks/rvbrooks/blob/main/github_header_.png)
+![alt text](https://github.com/rvbrooks/rvbrooks/blob/main/github_header_2.png)
 
 
 <h1 align="center">Vincent Brooks, PhD</h1>
